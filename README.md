@@ -38,7 +38,7 @@ Exports PDF reports
 → Groq – Llama 3.3 70B (Primary)
 → Compatible with OpenAI / Gemini / Local Llama
 
-Original project used Together AI + E2B.
+
 This version is 100% free & local execution based.
 
 ## <u>🧱 **Project Structure**</u>
