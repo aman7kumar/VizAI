@@ -8,3 +8,4 @@ matplotlib
 plotly
 reportlab
 python-dotenv
+groq
